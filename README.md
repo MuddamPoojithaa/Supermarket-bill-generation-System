@@ -16,7 +16,7 @@ This system then displays a message saying the user to pay the price of the item
         
         enter your name:poojitha
 
-**rice     Rs 20/kg
+rice     Rs 20/kg
 sugar    Rs 30/kg
 salt     Rs 20/kg
 oil      Rs 80/liter      
