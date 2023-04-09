@@ -14,21 +14,6 @@ This system then displays a message saying the user to pay the price of the item
         ScreenShots
         Search Items
         
-  ![image](https://user-images.githubusercontent.com/127126687/230765928-10c41989-8a30-4830-9ebd-1ac5f9f1a04c.png)
+  ![image](https://user-images.githubusercontent.com/127126687/230766076-5ff1c728-ebb2-487f-87a5-6357095ea96a.png)
 
-  ![image](https://user-images.githubusercontent.com/127126687/230765911-26e6adee-0c1a-423e-b7c4-9514247f271d.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
