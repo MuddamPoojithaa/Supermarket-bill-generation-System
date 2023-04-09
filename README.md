@@ -14,51 +14,14 @@ This system then displays a message saying the user to pay the price of the item
         ScreenShots
         Search Items
         
-        enter your name:poojitha
-
-rice     Rs 20/kg
-sugar    Rs 30/kg
-salt     Rs 20/kg
-oil      Rs 80/liter      
-panner   Rs 110/kg        
-maggi    Rs 50/kg
-boost    Rs 90/each       
-colgate  Rs 85/each       
-
-for list of items press 1:1
-
-rice     Rs 20/kg
-sugar    Rs 30/kg
-salt     Rs 20/kg
-oil      Rs 80/liter
-panner   Rs 110/kg
-maggi    Rs 50/kg
-boost    Rs 90/each
-colgate  Rs 85/each
-
-if you want to buy press 1 or 2 for exit:1
-enter your items:sugar
-enter your quantity:5
-can i bill the items yes or no:yes
-========================= POOJITHA SUPERMARKET =========================
-                             HYDERABAD
-Name: poojitha                                Date: 2023-04-09 14:51:22.140327
----------------------------------------------------------------------------
-sno  items -------- quantity     price
-
-0                   list[0]     5 150
-___________________________________________________________________________
-                                                   Totalamount: Rs 150
-gst amount                                                    Rs 7.5
----------------------------------------------------------------------------
-                                                   finalalamount: Rs 157.5
----------------------------------------------------------------------------
-                                                   Thanks for visting
----------------------------------------------------------------------------** 
+  ![image](https://user-images.githubusercontent.com/127126687/230765783-39f8cc83-cd4a-4ddb-a10d-e027930c1f66.png)
+      
+  ![image](https://user-images.githubusercontent.com/127126687/230765666-4d76d9cd-1c6d-42fe-b400-33f0302a2435.png)
+  
+  ![image](https://user-images.githubusercontent.com/127126687/230765713-5f6606ef-5b97-4f4f-a928-e55a2c87d236.png)
 
 
-
-
+        
 
 
 
