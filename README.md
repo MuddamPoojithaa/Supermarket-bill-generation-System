@@ -13,7 +13,8 @@ This system then displays a message saying the user to pay the price of the item
         Edit Products
         ScreenShots
         Search Items
-        
+   ![image](https://user-images.githubusercontent.com/127126687/230766153-fef55cb7-a440-4fb8-a4ca-e416c4f18eef.png)
+     
   ![image](https://user-images.githubusercontent.com/127126687/230766076-5ff1c728-ebb2-487f-87a5-6357095ea96a.png)
 
   
